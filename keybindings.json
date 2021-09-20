@@ -1,0 +1,49 @@
+[
+  {
+    "command": "workbench.files.action.refreshFilesExplorer",
+    "key": "cmd+r"
+  },
+  {
+    "command": "npm-script.install",
+    "key": "ctrl+cmd+i"
+  },
+  {
+    "command": "npm-script.start",
+    "key": "ctrl+cmd+r"
+  },
+  {
+    "args": {
+      "text": "npm run build\r"
+    },
+    "command": "workbench.action.terminal.sendSequence",
+    "key": "ctrl+cmd+b"
+  },
+  {
+    "command": "workbench.action.openSettingsJson",
+    "key": "cmd+alt+,"
+  },
+  {
+    "command": "workbench.action.terminal.kill",
+    "key": "cmd+w",
+    "when": "terminalFocus"
+  },
+  {
+    "command": "workbench.action.terminal.clear",
+    "key": "cmd+backspace",
+    "when": "terminalFocus"
+  },
+  {
+    "command": "workbench.action.terminal.focusPrevious",
+    "key": "cmd+left",
+    "when": "terminalFocus"
+  },
+  {
+    "command": "workbench.action.terminal.focusNext",
+    "key": "cmd+right",
+    "when": "terminalFocus"
+  },
+  {
+    "command": "fileutils.renameFile",
+    "key": "cmd+enter"
+  }
+]

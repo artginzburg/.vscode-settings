@@ -1,0 +1,61 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[markdown]": {
+    "editor.formatOnSaveMode": "modifications"
+  },
+  "[nginx]": {
+    "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+  },
+  "bashBeautify.tabSize": 2,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.largeFileOptimizations": false,
+  "editor.linkedEditing": true,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.snippetSuggestions": "top",
+  "editor.suggest.preview": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.tabSize": 2,
+  "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
+  "editor.wordWrap": "on",
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.insertFinalNewline": false,
+  "files.trimFinalNewlines": true,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "php.validate.run": "onType",
+  "prettier.arrowParens": "always",
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "remotefs.remote": {
+    "mesto": {
+      "host": "84.252.128.243",
+      "privateKeyPath": "/Users/artginzburg/.ssh/id_rsa",
+      "scheme": "sftp",
+      "username": "artginzburg"
+    }
+  },
+  "remotefs.rootLabel": "${folderName} — (${name})",
+  "shellcheck.exclude": ["2028", "2039", "3043"],
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.closeWhenEmpty": true,
+  "window.nativeTabs": true,
+  "window.restoreWindows": "preserve",
+  "window.zoomLevel": 0.9,
+  "workbench.colorTheme": "Celestial",
+  "workbench.editor.tabCloseButton": "off",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.startupEditor": "none"
+}
