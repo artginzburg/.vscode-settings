@@ -44,6 +44,6 @@
   },
   {
     "command": "fileutils.renameFile",
-    "key": "cmd+enter"
+    "key": "cmd+shift+r"
   }
 ]
