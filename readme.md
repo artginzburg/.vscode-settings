@@ -8,7 +8,7 @@ make install
 ```
 
 ## Backup
-> Moves VSCode configuration files to this repo and performs `make install`
+> Moves VSCode configuration files to this repo, then performs `make install` and `make backup-extensions`
 ```ps1
 make [backup]
 ```
