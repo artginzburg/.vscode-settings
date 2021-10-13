@@ -1,22 +1,18 @@
 {
-  "[dotenv]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-  "[markdown]": {
-    "editor.formatOnSaveMode": "modifications"
-  },
-  "[nginx]": {
-    "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "bashBeautify.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
   "editor.largeFileOptimizations": false,
@@ -51,7 +47,11 @@
     }
   },
   "remotefs.rootLabel": "${folderName} — (${name})",
-  "shellcheck.exclude": ["2028", "2039", "3043"],
+  "shellcheck.exclude": [
+    "2028",
+    "2039",
+    "3043"
+  ],
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
