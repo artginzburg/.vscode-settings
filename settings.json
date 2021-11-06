@@ -8,6 +8,9 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
   "bashBeautify.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
@@ -47,11 +50,6 @@
     }
   },
   "remotefs.rootLabel": "${folderName} — (${name})",
-  "shellcheck.exclude": [
-    "2028",
-    "2039",
-    "3043"
-  ],
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
