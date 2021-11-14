@@ -67,5 +67,8 @@
   "workbench.colorTheme": "Celestial",
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
