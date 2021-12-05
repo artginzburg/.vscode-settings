@@ -46,6 +46,7 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "git.ignoreLimitWarning": true,
+  "gitlens.currentLine.scrollable": false,
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "liveServer.settings.donotShowInfoMsg": true,
