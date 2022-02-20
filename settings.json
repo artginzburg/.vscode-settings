@@ -68,7 +68,6 @@
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
   "window.restoreWindows": "preserve",
-  "window.zoomLevel": 0.88,
   "workbench.colorTheme": "Celestial",
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
