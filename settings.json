@@ -73,5 +73,6 @@
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "none",
   "workbench.colorCustomizations": {},
-  "http.systemCertificates": false
+  "http.systemCertificates": false,
+  "typescript.inlayHints.parameterNames.enabled": "literals"
 }
