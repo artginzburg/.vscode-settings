@@ -30,6 +30,7 @@
   },
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
   "editor.largeFileOptimizations": false,
   "editor.linkedEditing": true,
   "editor.quickSuggestionsDelay": 0,
