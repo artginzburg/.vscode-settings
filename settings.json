@@ -56,15 +56,6 @@
   "prettier.printWidth": 100,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
-  "remotefs.remote": {
-    "mesto": {
-      "host": "84.252.128.243",
-      "privateKeyPath": "/Users/artginzburg/.ssh/id_rsa",
-      "scheme": "sftp",
-      "username": "artginzburg"
-    }
-  },
-  "remotefs.rootLabel": "${folderName} — (${name})",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
