@@ -1,4 +1,5 @@
 aaron-bond.better-comments
+adpyke.codesnap
 ahmadalli.vscode-nginx-conf
 apvarun.celestial
 bierner.markdown-preview-github-styles
@@ -15,13 +16,16 @@ enenumxela.signed-dark-pro
 esbenp.prettier-vscode
 formulahendry.auto-rename-tag
 foxundermoon.shell-format
+GitHub.copilot
 jpoissonnier.vscode-styled-components
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
 maptz.camelcasenavigation
 mikestead.dotenv
+mintlify.document
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
+ms-azuretools.vscode-docker
 ms-python.python
 ms-python.vscode-pylance
 ms-toolsai.jupyter
@@ -30,6 +34,7 @@ ms-toolsai.jupyter-renderers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vsliveshare.vsliveshare
+myxvisual.vscode-ts-uml
 pfg.vscode-shortcutslang-extension
 pranaygp.vscode-css-peek
 quicktype.quicktype
@@ -46,4 +51,5 @@ WakaTime.vscode-wakatime
 wmaurer.change-case
 yy0931.save-as-root
 Zignd.html-css-class-completion
+znck.grammarly
 zxh404.vscode-proto3
