@@ -33,6 +33,7 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
   "git.ignoreLimitWarning": true,
+  "http.systemCertificates": false,
   // "gitlens.currentLine.scrollable": false,
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -42,15 +43,14 @@
   "prettier.printWidth": 100,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
+  "typescript.inlayHints.parameterNames.enabled": "literals",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
   "window.restoreWindows": "preserve",
+  "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Celestial",
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.startupEditor": "none",
-  "workbench.colorCustomizations": {},
-  "http.systemCertificates": false,
-  "typescript.inlayHints.parameterNames.enabled": "literals"
+  "workbench.startupEditor": "none"
 }
