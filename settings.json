@@ -11,7 +11,8 @@
   "bashBeautify.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": true,
+    "source.fixAll.sortJSON": false
   },
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
