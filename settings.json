@@ -23,7 +23,6 @@
   "editor.largeFileOptimizations": false,
   "editor.linkedEditing": true,
   "editor.quickSuggestionsDelay": 0,
-  "editor.snippetSuggestions": "top",
   "editor.suggest.preview": true,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.tabSize": 2,
