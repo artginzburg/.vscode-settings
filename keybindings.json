@@ -45,15 +45,16 @@
   {
     "command": "fileutils.renameFile",
     "key": "cmd+shift+r"
-  },
-  {
-    "key": "alt+space",
-    "command": "editor.action.triggerSuggest",
-    "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
-  },
-  {
-    "key": "ctrl+space",
-    "command": "-editor.action.triggerSuggest",
-    "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
   }
+  // {
+  //   // Now I have alt+space as the Spotlight shortcut
+  //   "key": "alt+space",
+  //   "command": "editor.action.triggerSuggest",
+  //   "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+  // },
+  // {
+  //   "key": "ctrl+space",
+  //   "command": "-editor.action.triggerSuggest",
+  //   "when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+  // }
 ]
