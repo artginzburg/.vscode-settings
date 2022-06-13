@@ -12,6 +12,7 @@
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "bashBeautify.tabSize": 2,
+  "cSpell.ignoreRegExpList": ["/[а-яА-яёЁ]+/gi"],
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
