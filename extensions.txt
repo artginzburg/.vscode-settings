@@ -17,7 +17,7 @@ esbenp.prettier-vscode
 formulahendry.auto-rename-tag
 foxundermoon.shell-format
 GitHub.copilot
-jpoissonnier.vscode-styled-components
+GitHub.copilot-labs
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
 maptz.camelcasenavigation
@@ -40,10 +40,11 @@ pranaygp.vscode-css-peek
 quicktype.quicktype
 richie5um2.vscode-sort-json
 ritwickdey.LiveServer
-rvest.vs-code-prettier-eslint
 shakram02.bash-beautify
 sleistner.vscode-fileutils
 stevencl.addDocComments
+streetsidesoftware.code-spell-checker
+styled-components.vscode-styled-components
 timonwong.shellcheck
 tootone.org-mode
 truman.autocomplate-shell
