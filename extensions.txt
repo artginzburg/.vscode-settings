@@ -45,6 +45,7 @@ sleistner.vscode-fileutils
 stevencl.addDocComments
 streetsidesoftware.code-spell-checker
 styled-components.vscode-styled-components
+tal7aouy.icons
 timonwong.shellcheck
 tootone.org-mode
 truman.autocomplate-shell

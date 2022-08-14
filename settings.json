@@ -60,5 +60,6 @@
   "workbench.colorTheme": "Celestial",
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
+  "workbench.iconTheme": "icons",
   "workbench.startupEditor": "none"
 }
