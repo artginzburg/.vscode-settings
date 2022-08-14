@@ -38,6 +38,7 @@ myxvisual.vscode-ts-uml
 pfg.vscode-shortcutslang-extension
 pranaygp.vscode-css-peek
 quicktype.quicktype
+rbbit.typescript-hero
 richie5um2.vscode-sort-json
 ritwickdey.LiveServer
 shakram02.bash-beautify
