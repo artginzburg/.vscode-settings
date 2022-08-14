@@ -47,6 +47,7 @@
   "prettier.printWidth": 100,
   "prettier.singleQuote": true,
   "prettier.trailingComma": "all",
+  "search.collapseResults": "auto",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.confirmOnKill": "always",
   "terminal.integrated.cursorBlinking": true,
