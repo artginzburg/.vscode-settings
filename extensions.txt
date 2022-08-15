@@ -18,6 +18,7 @@ formulahendry.auto-rename-tag
 foxundermoon.shell-format
 GitHub.copilot
 GitHub.copilot-labs
+kisstkondoros.typelens
 kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
