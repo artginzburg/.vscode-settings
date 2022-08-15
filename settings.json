@@ -22,6 +22,7 @@
     "source.fixAll.sortJSON": false
   },
   "editor.detectIndentation": false,
+  "editor.foldingImportsByDefault": true,
   "editor.formatOnSave": true,
   "editor.inlineSuggest.enabled": true,
   "editor.largeFileOptimizations": false,
