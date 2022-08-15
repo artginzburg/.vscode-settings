@@ -12,6 +12,9 @@
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "bashBeautify.tabSize": 2,
+  "codemetrics.basics.CodeLensHiddenUnder": 6,
+  "codemetrics.basics.ComplexityTemplate": "Complexity: {0}",
+  "codemetrics.basics.DecorationModeEnabled": false,
   "cSpell.ignoreRegExpList": ["/[а-яА-яёЁ]+/gi"],
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
