@@ -43,6 +43,7 @@ rbbit.typescript-hero
 richie5um2.vscode-sort-json
 ritwickdey.LiveServer
 shakram02.bash-beautify
+sirmspencer.vscode-autohide
 sleistner.vscode-fileutils
 stevencl.addDocComments
 streetsidesoftware.code-spell-checker

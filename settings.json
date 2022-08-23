@@ -11,6 +11,9 @@
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
+  "autoHide.hideOnOpen": false,
+  "autoHide.panelDelay": 0,
+  "autoHide.sideBarDelay": 0,
   "bashBeautify.tabSize": 2,
   "codemetrics.basics.CodeLensHiddenUnder": 6,
   "codemetrics.basics.ComplexityTemplate": "Complexity: {0}",
@@ -67,5 +70,6 @@
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "icons",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none"
 }
