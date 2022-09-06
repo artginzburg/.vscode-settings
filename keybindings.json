@@ -23,6 +23,11 @@
     "key": "cmd+alt+[Comma]" // '[Comma]' instead of ',' for supporting both the default and RU PC layout.
   },
   {
+    "command": "workbench.action.terminal.toggleTerminal",
+    "key": "ctrl+[Backquote]", // '[Backquote]' instead of '`' for supporting both the default and RU PC layout.
+    "when": "terminal.active"
+  },
+  {
     "command": "workbench.action.terminal.kill",
     "key": "cmd+w",
     "when": "terminalFocus"
