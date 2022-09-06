@@ -20,7 +20,7 @@
   },
   {
     "command": "workbench.action.openSettingsJson",
-    "key": "cmd+alt+,"
+    "key": "cmd+alt+[Comma]" // '[Comma]' instead of ',' for supporting both the default and RU PC layout.
   },
   {
     "command": "workbench.action.terminal.kill",
