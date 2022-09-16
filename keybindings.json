@@ -47,6 +47,27 @@
     "key": "cmd+right",
     "when": "terminalFocus"
   },
+  // Extensions
+  {
+    "key": "alt+.",
+    "command": "-docs.write",
+    "when": "false"
+  },
+  {
+    "key": "ctrl+.",
+    "command": "-docs.write",
+    "when": "false"
+  },
+  {
+    "key": "alt+.",
+    "command": "-docs.write",
+    "when": "editorTextFocus && config.docwriter.hotkey.mac == '⌥ + .' && editorLangId =~ /typescript|javascript|python|php|java|c|cpp|csharp|dart|ruby|go|rust/"
+  },
+  {
+    "key": "cmd+.",
+    "command": "-docs.write",
+    "when": "editorTextFocus && config.docwriter.hotkey.mac == '⌘ + .' && editorLangId =~ /typescript|javascript|python|php|java|c|cpp|csharp|dart|ruby|go|rust/"
+  },
   {
     "command": "fileutils.renameFile",
     "key": "cmd+shift+r"
