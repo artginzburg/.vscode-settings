@@ -47,6 +47,7 @@ sirmspencer.vscode-autohide
 sleistner.vscode-fileutils
 stevencl.addDocComments
 streetsidesoftware.code-spell-checker
+streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 tal7aouy.icons
 timonwong.shellcheck
