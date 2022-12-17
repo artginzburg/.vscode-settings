@@ -19,6 +19,7 @@
   "codemetrics.basics.ComplexityTemplate": "Complexity: {0}",
   "codemetrics.basics.DecorationModeEnabled": false,
   "cSpell.ignoreRegExpList": ["/[а-яА-яёЁ]+/gi"],
+  "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
