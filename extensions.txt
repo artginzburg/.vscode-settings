@@ -36,6 +36,7 @@ ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
 ms-vsliveshare.vsliveshare
 myxvisual.vscode-ts-uml
+naumovs.color-highlight
 pfg.vscode-shortcutslang-extension
 pranaygp.vscode-css-peek
 quicktype.quicktype

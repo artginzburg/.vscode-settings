@@ -18,6 +18,7 @@
   "codemetrics.basics.CodeLensHiddenUnder": 6,
   "codemetrics.basics.ComplexityTemplate": "Complexity: {0}",
   "codemetrics.basics.DecorationModeEnabled": false,
+  "color-highlight.matchWords": true,
   "cSpell.language": "en, ru",
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
