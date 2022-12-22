@@ -28,6 +28,7 @@
   "editor.detectIndentation": false,
   "editor.foldingImportsByDefault": true,
   "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
   "editor.inlineSuggest.enabled": true,
   "editor.largeFileOptimizations": false,
   "editor.linkedEditing": true,
