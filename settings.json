@@ -29,6 +29,7 @@
   "editor.foldingImportsByDefault": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
+  "editor.guides.highlightActiveBracketPair": false,
   "editor.inlineSuggest.enabled": true,
   "editor.largeFileOptimizations": false,
   "editor.linkedEditing": true,
