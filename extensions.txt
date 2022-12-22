@@ -55,6 +55,7 @@ timonwong.shellcheck
 tootone.org-mode
 truman.autocomplate-shell
 WakaTime.vscode-wakatime
+withfig.fig
 wmaurer.change-case
 yy0931.save-as-root
 Zignd.html-css-class-completion
