@@ -57,6 +57,7 @@ truman.autocomplate-shell
 WakaTime.vscode-wakatime
 withfig.fig
 wmaurer.change-case
+wraith13.open-in-github-desktop
 yy0931.save-as-root
 Zignd.html-css-class-completion
 znck.grammarly
