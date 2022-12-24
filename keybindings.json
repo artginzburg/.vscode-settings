@@ -71,6 +71,16 @@
   {
     "command": "fileutils.renameFile",
     "key": "cmd+shift+r"
+  },
+  {
+    "key": "alt+backspace",
+    "command": "maptz.camelcasenavigation.deleteCamelLeftCommand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+backspace",
+    "command": "maptz.camelcasenavigation.deleteCamelRightCommand",
+    "when": "editorTextFocus"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut
