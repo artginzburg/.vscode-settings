@@ -73,14 +73,34 @@
     "key": "cmd+shift+r"
   },
   {
-    "key": "alt+backspace",
-    "command": "maptz.camelcasenavigation.deleteCamelLeftCommand",
+    "key": "alt+right",
+    "command": "cursorWordPartRight",
     "when": "editorTextFocus"
   },
   {
-    "key": "alt+shift+backspace",
-    "command": "maptz.camelcasenavigation.deleteCamelRightCommand",
+    "key": "alt+shift+right",
+    "command": "cursorWordPartRightSelect",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+left",
+    "command": "cursorWordPartLeft",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+left",
+    "command": "cursorWordPartLeftSelect",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+backspace",
+    "command": "deleteWordPartLeft",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+shift+backspace",
+    "command": "deleteWordPartRight",
+    "when": "editorTextFocus && !editorReadonly"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut

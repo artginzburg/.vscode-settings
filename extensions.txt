@@ -21,7 +21,6 @@ kisstkondoros.typelens
 kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
-maptz.camelcasenavigation
 mikestead.dotenv
 mintlify.document
 mrmlnc.vscode-apache
