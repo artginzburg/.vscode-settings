@@ -1,5 +1,5 @@
 {
-  "[dockerfile]": {
+  "[dockerfile][dockercompose]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
   "[javascript][javascriptreact][typescript][typescriptreact]": {
