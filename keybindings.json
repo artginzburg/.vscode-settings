@@ -101,6 +101,16 @@
     "key": "alt+shift+backspace",
     "command": "deleteWordPartRight",
     "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+s",
+    "command": "editor.action.smartSelect.grow",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+shift+s",
+    "command": "editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut
