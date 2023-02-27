@@ -77,6 +77,8 @@
   "window.restoreWindows": "preserve",
   "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Celestial",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.scrollToSwitchTabs": true,
   "workbench.editor.tabCloseButton": "off",
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "icons",
