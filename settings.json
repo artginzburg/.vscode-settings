@@ -70,6 +70,7 @@
     "FIG_NEW_SESSION": "1"
   },
   "terminal.integrated.shellIntegration.enabled": true,
+  "todo-tree.tree.showCountsInTree": true,
   "typescript.inlayHints.parameterNames.enabled": "literals",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
