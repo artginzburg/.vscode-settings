@@ -39,6 +39,7 @@
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.quickSuggestionsDelay": 0,
+  "editor.stickyScroll.enabled": true,
   "editor.suggest.preview": true,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.tabSize": 2,
