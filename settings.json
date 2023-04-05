@@ -71,6 +71,8 @@
     "FIG_NEW_SESSION": "1"
   },
   "terminal.integrated.shellIntegration.enabled": true,
+  "todo-tree.regex.regex": "(//|#|<!--|/(\\*){1,2}|^\\s*\\*)\\s*($TAGS)|(/(\\*){1,2}|^\\s*\\*)\\s*@todo", // Support for JSDoc, see https://github.com/Gruntfuggly/todo-tree/issues/111#issuecomment-1498200473
+  "todo-tree.regex.regexCaseSensitive": false,
   "todo-tree.tree.showCountsInTree": true,
   "typescript.inlayHints.parameterNames.enabled": "literals",
   "typescript.updateImportsOnFileMove.enabled": "always",
