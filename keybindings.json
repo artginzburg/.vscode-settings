@@ -111,6 +111,11 @@
     "key": "alt+shift+s",
     "command": "editor.action.smartSelect.shrink",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+w",
+    "command": "editor.emmet.action.wrapWithAbbreviation",
+    "when": "editorTextFocus"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut
