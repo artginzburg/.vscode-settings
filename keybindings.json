@@ -116,6 +116,14 @@
     "key": "alt+w",
     "command": "editor.emmet.action.wrapWithAbbreviation",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "cmd+n",
+    "command": "-workbench.action.files.newUntitledFile"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut
