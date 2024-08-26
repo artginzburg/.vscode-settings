@@ -68,7 +68,6 @@ ms-vscode.live-server
 ms-vscode.remote-explorer
 ms-vsliveshare.vsliveshare
 myxvisual.vscode-ts-uml
-namelosw.monochrome-black
 naumovs.color-highlight
 pfg.vscode-shortcutslang-extension
 ph1p.zeit-co-vscode-schemas
