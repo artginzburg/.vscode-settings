@@ -1,19 +1,22 @@
+ROOT_DIR:=$(shell dirname $(realpath $(firstword $(MAKEFILE_LIST))))
+USER_DIR:=~/Library/Application\ Support/Code/User
+
 backup:
-	mv ~/Library/Application\ Support/Code/User/settings.json ./ ; \
-	mv ~/Library/Application\ Support/Code/User/keybindings.json ./ ; \
+	mv $(USER_DIR)/settings.json ./ ; \
+	mv $(USER_DIR)/keybindings.json ./ ; \
 	make install ; \
 	make backup-extensions
 
 install:
-	ln -s ~/Documents/GitHub/vscode-settings/settings.json ~/Library/Application\ Support/Code/User/settings.json
-	ln -s ~/Documents/GitHub/vscode-settings/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
+	ln -s $(ROOT_DIR)/settings.json $(USER_DIR)/settings.json
+	ln -s $(ROOT_DIR)/keybindings.json $(USER_DIR)/keybindings.json
 
 backup-extensions:
 	code --list-extensions > extensions.txt
 
 revert:
 # removes the links created by "install" and copies actual files to the */Code/User/ directory. Used to disable VSCode settings sync with Git.
-	rm ~/Library/Application\ Support/Code/User/settings.json
-	cp ~/Documents/GitHub/vscode-settings/settings.json ~/Library/Application\ Support/Code/User/settings.json
-	rm ~/Library/Application\ Support/Code/User/keybindings.json
-	cp ~/Documents/GitHub/vscode-settings/keybindings.json ~/Library/Application\ Support/Code/User/keybindings.json
+	rm $(USER_DIR)/settings.json
+	cp $(ROOT_DIR)/settings.json $(USER_DIR)/settings.json
+	rm $(USER_DIR)/keybindings.json
+	cp $(ROOT_DIR)/keybindings.json $(USER_DIR)/keybindings.json
