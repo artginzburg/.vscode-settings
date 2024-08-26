@@ -1,47 +1,30 @@
 {
-  "[dockerfile][dockercompose]": {
-    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-  },
-  "[javascript][javascriptreact][typescript][typescriptreact]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
   "[json][jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[python]": {
-    "editor.formatOnType": true
-  },
-  "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
   },
   "autoHide.hideOnOpen": false,
   "autoHide.panelDelay": 0,
   "autoHide.sideBarDelay": 0,
-  "bashBeautify.tabSize": 2,
-  "codemetrics.basics.CodeLensHiddenUnder": 6,
-  "codemetrics.basics.ComplexityTemplate": "Complexity: {0}",
-  "codemetrics.basics.DecorationModeEnabled": false,
+  "color-highlight.markerType": "dot-before",
+  "color-highlight.markRuler": false,
   "color-highlight.matchWords": true,
+  "console-ninja.featureSet": "Community",
+  "console-ninja.showWhatsNew": false,
   "cSpell.language": "en, ru",
+  "dart.flutterSdkPath": "/Users/artginzburg/flutter", // related extension disabled
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true,
-    "source.fixAll.sortJSON": false
+    "source.fixAll": "explicit",
+    "source.fixAll.sortJSON": "explicit"
   },
   "editor.detectIndentation": false,
-  "editor.foldingImportsByDefault": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
-  "editor.guides.highlightActiveBracketPair": false,
-  "editor.inlineSuggest.enabled": true,
-  "editor.largeFileOptimizations": false,
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.quickSuggestionsDelay": 0,
-  "editor.stickyScroll.enabled": true,
   "editor.suggest.preview": true,
-  "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.tabSize": 2,
   "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
   "editor.wordWrap": "on",
@@ -52,17 +35,9 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  "git.ignoreLimitWarning": true,
   "http.systemCertificates": false,
-  // "gitlens.currentLine.scrollable": false,
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "liveServer.settings.donotShowInfoMsg": true,
-  "php.validate.run": "onType",
-  "prettier.arrowParens": "always",
-  "prettier.printWidth": 100,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "all",
   "search.collapseResults": "auto",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.confirmOnKill": "always",
@@ -70,21 +45,15 @@
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
-  "terminal.integrated.shellIntegration.enabled": true,
-  "todo-tree.regex.regex": "(//|#|<!--|/(\\*){1,2}|^\\s*\\*)\\s*($TAGS)|(/(\\*){1,2}|^\\s*\\*)\\s*@todo", // Support for JSDoc, see https://github.com/Gruntfuggly/todo-tree/issues/111#issuecomment-1498200473
-  "todo-tree.regex.regexCaseSensitive": false,
-  "todo-tree.tree.showCountsInTree": true,
   "typescript.inlayHints.parameterNames.enabled": "literals",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
   "window.restoreWindows": "preserve",
-  "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Celestial",
+  "workbench.editor.empty.hint": "hidden",
   "workbench.editor.highlightModifiedTabs": true,
-  "workbench.editor.scrollToSwitchTabs": true,
-  "workbench.editor.tabCloseButton": "off",
-  "workbench.editor.untitled.hint": "hidden",
+  "workbench.editor.tabActionCloseVisibility": false,
   "workbench.iconTheme": "icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none"
