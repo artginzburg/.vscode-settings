@@ -56,5 +56,6 @@
   "workbench.editor.tabActionCloseVisibility": false,
   "workbench.iconTheme": "icons",
   "workbench.sideBar.location": "right",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "diffEditor.ignoreTrimWhitespace": true
 }
