@@ -46,7 +46,6 @@ kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
 lokalise.i18n-ally
-mikestead.dotenv
 mintlify.document
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
@@ -80,6 +79,7 @@ ritwickdey.liveserver
 shakram02.bash-beautify
 sirmspencer.vscode-autohide
 sleistner.vscode-fileutils
+socheatsok78-lab.dotenv-vscode-stripped
 stevencl.adddoccomments
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
