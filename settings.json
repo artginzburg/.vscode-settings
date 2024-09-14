@@ -57,5 +57,16 @@
   "workbench.iconTheme": "icons",
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "diffEditor.ignoreTrimWhitespace": true
+  "diffEditor.ignoreTrimWhitespace": true,
+  // for `socheatsok78-lab.dotenv-vscode-stripped`:
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.dotenv",
+        "settings": {
+          "foreground": "#FF000000"
+        }
+      }
+    ]
+  }
 }
