@@ -13,6 +13,7 @@
   "console-ninja.showWhatsNew": false,
   "dart.flutterSdkPath": "/Users/artginzburg/flutter", // related extension disabled
   "diffEditor.ignoreTrimWhitespace": true,
+  "dotenv.enableAutocloaking": false,
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
@@ -27,17 +28,6 @@
   "editor.quickSuggestionsDelay": 0,
   "editor.suggest.preview": true,
   "editor.tabSize": 2,
-  // for `socheatsok78-lab.dotenv-vscode-stripped`:
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "scope": "keyword.other.dotenv",
-        "settings": {
-          "foreground": "#FF000000"
-        }
-      }
-    ]
-  },
   "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?_",
   "editor.wordWrap": "on",
   "eslint.format.enable": true,
