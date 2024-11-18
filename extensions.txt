@@ -103,7 +103,6 @@ vscjava.vscode-java-test
 vscjava.vscode-maven
 wakatime.vscode-wakatime
 wallabyjs.console-ninja
-withfig.fig
 wmaurer.change-case
 wraith13.open-in-github-desktop
 yoavbls.pretty-ts-errors
