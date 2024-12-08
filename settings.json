@@ -48,6 +48,7 @@
     "FIG_NEW_SESSION": "1"
   },
   "typescript.inlayHints.parameterNames.enabled": "literals",
+  "typescript.preferences.preferTypeOnlyAutoImports": true, // TODO! check other new preferences
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
