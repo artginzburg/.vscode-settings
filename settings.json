@@ -2,6 +2,7 @@
   "[json][jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "autoHide.autoHideAuxiliaryBar": false,
   "autoHide.hideOnOpen": false,
   "autoHide.panelDelay": 0,
   "autoHide.sideBarDelay": 0,
@@ -53,6 +54,7 @@
   "window.closeWhenEmpty": true,
   "window.nativeTabs": true,
   "window.restoreWindows": "preserve",
+  "window.zoomPerWindow": false,
   "workbench.colorTheme": "Celestial",
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.highlightModifiedTabs": true,
