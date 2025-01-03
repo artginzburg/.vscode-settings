@@ -3,7 +3,6 @@ adpyke.codesnap
 ahmadalli.vscode-nginx-conf
 amodio.tsl-problem-matcher
 apvarun.celestial
-arcensoth.language-mcfunction
 astro-build.astro-vscode
 bengreenier.vscode-node-readme
 bierner.markdown-preview-github-styles
@@ -39,6 +38,7 @@ github.vscode-github-actions
 gruntfuggly.todo-tree
 idleberg.applescript
 ionic.ionic
+jvitor83.types-autoinstaller
 kangping.protobuf
 katjanakosic.vscode-json5
 kisstkondoros.typelens
@@ -46,6 +46,8 @@ kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
 lokalise.i18n-ally
+maxvanderschee.web-accessibility
+minecraftcommands.syntax-mcfunction
 mintlify.document
 mrmlnc.vscode-apache
 mrmlnc.vscode-scss
@@ -73,6 +75,7 @@ ph1p.zeit-co-vscode-schemas
 pranaygp.vscode-css-peek
 prisma.prisma
 quicktype.quicktype
+react-labyrinth.react-labyrinth
 redhat.java
 richie5um2.vscode-sort-json
 ritwickdey.liveserver
