@@ -24,3 +24,4 @@
 - BriteSnow.vscode-toggle-quotes
 - WakaTime.vscode-wakatime
 - formulahendry.auto-rename-tag <!-- necessary because the built-in VSC feature is less powerful -->
+- oderwat.indent-rainbow
