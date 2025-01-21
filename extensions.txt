@@ -70,6 +70,7 @@ ms-vscode.remote-explorer
 ms-vsliveshare.vsliveshare
 myxvisual.vscode-ts-uml
 naumovs.color-highlight
+oderwat.indent-rainbow
 pfg.vscode-shortcutslang-extension
 ph1p.zeit-co-vscode-schemas
 pranaygp.vscode-css-peek
