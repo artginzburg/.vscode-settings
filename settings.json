@@ -6,6 +6,7 @@
   "autoHide.hideOnOpen": false,
   "autoHide.panelDelay": 0,
   "autoHide.sideBarDelay": 0,
+  "cSpell.diagnosticLevel": "Hint",
   "cSpell.language": "en, ru",
   "color-highlight.markRuler": false,
   "color-highlight.markerType": "dot-before",
