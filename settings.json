@@ -40,6 +40,7 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
   "http.systemCertificates": false,
+  "java.jdt.ls.java.home": "/opt/homebrew/Cellar/openjdk@21/21.0.5", // env-specific, don't copy
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "search.collapseResults": "auto",
