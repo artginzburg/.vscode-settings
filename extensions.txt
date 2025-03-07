@@ -5,6 +5,7 @@ amodio.tsl-problem-matcher
 apvarun.celestial
 astro-build.astro-vscode
 bengreenier.vscode-node-readme
+bierner.markdown-emoji
 bierner.markdown-preview-github-styles
 bradgashler.htmltagwrap
 bradlc.vscode-tailwindcss
@@ -38,7 +39,6 @@ github.vscode-github-actions
 gruntfuggly.todo-tree
 idleberg.applescript
 ionic.ionic
-jvitor83.types-autoinstaller
 kangping.protobuf
 katjanakosic.vscode-json5
 kisstkondoros.typelens
@@ -78,6 +78,7 @@ prisma.prisma
 quicktype.quicktype
 react-labyrinth.react-labyrinth
 redhat.java
+redhat.vscode-yaml
 richie5um2.vscode-sort-json
 ritwickdey.liveserver
 shakram02.bash-beautify
@@ -107,6 +108,7 @@ vscjava.vscode-java-test
 vscjava.vscode-maven
 wakatime.vscode-wakatime
 wallabyjs.console-ninja
+withfig.fig
 wmaurer.change-case
 wraith13.open-in-github-desktop
 yoavbls.pretty-ts-errors
