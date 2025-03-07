@@ -17,11 +17,12 @@
 - kisstkondoros.vscode-gutter-preview
 - ms-vsliveshare.vsliveshare
 - bierner.markdown-preview-github-styles
+- bierner.markdown-emoji
 - wraith13.open-in-github-desktop
 - esbenp.prettier-vscode
 - YoavBls.pretty-ts-errors
 - cssho.vscode-svgviewer
 - BriteSnow.vscode-toggle-quotes
 - WakaTime.vscode-wakatime
-- formulahendry.auto-rename-tag <!-- necessary because the built-in VSC feature is less powerful -->
+- formulahendry.auto-rename-tag <!-- necessary because the built-in VSC feature is buggy -->
 - oderwat.indent-rainbow
