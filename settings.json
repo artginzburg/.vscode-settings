@@ -63,5 +63,13 @@
   "workbench.editor.tabActionCloseVisibility": false,
   "workbench.iconTheme": "icons",
   "workbench.sideBar.location": "right",
-  "workbench.startupEditor": "none"
+  "workbench.startupEditor": "none",
+  "mcp": {
+    "servers": {
+      "console-ninja": {
+        "command": "npx",
+        "args": ["-y", "-c", "node ~/.console-ninja/mcp/"]
+      }
+    }
+  }
 }
