@@ -71,5 +71,8 @@
         "args": ["-y", "-c", "node ~/.console-ninja/mcp/"]
       }
     }
+  },
+  "workbench.editorAssociations": {
+    "*.svg": "default"
   }
 }
