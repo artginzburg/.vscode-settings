@@ -43,6 +43,14 @@
   "java.jdt.ls.java.home": "/opt/homebrew/Cellar/openjdk@21/21.0.5", // env-specific, don't copy
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "mcp": {
+    "servers": {
+      "console-ninja": {
+        "args": ["-y", "-c", "node ~/.console-ninja/mcp/"],
+        "command": "npx"
+      }
+    }
+  },
   "search.collapseResults": "auto",
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.confirmOnKill": "always",
@@ -61,18 +69,10 @@
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabActionCloseVisibility": false,
-  "workbench.iconTheme": "icons",
-  "workbench.sideBar.location": "right",
-  "workbench.startupEditor": "none",
-  "mcp": {
-    "servers": {
-      "console-ninja": {
-        "command": "npx",
-        "args": ["-y", "-c", "node ~/.console-ninja/mcp/"]
-      }
-    }
-  },
   "workbench.editorAssociations": {
     "*.svg": "default"
-  }
+  },
+  "workbench.iconTheme": "icons",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none"
 }
