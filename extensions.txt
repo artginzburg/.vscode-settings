@@ -20,6 +20,7 @@ dart-code.dart-code
 dart-code.flutter
 dbaeumer.vscode-eslint
 devhippo.midnight-crimson
+docker.docker
 dprint.dprint
 drmerfy.overtype
 dsznajder.es7-react-js-snippets
