@@ -48,6 +48,7 @@ kisstkondoros.vscode-gutter-preview
 liximomo.remotefs
 lokalise.i18n-ally
 maxvanderschee.web-accessibility
+mikerhyssmith.ts-barrelr
 minecraftcommands.syntax-mcfunction
 mintlify.document
 mrmlnc.vscode-apache
