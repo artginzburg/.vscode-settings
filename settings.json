@@ -65,6 +65,7 @@
   "window.nativeTabs": true,
   "window.restoreWindows": "preserve",
   "window.zoomPerWindow": false,
+  "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Celestial",
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.highlightModifiedTabs": true,
