@@ -13,7 +13,9 @@ github.vscode-github-actions
 kisstkondoros.typelens
 kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
+matthewpi.caddyfile-support
 mikerhyssmith.ts-barrelr
+ms-azuretools.vscode-containers
 naumovs.color-highlight
 oderwat.indent-rainbow
 openai.chatgpt
