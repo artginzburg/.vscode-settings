@@ -132,6 +132,14 @@
       "text": "\\\r\n"
     },
     "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+0",
+    "command": "workbench.action.zoomReset"
+  },
+  {
+    "key": "cmd+0",
+    "command": "-workbench.action.focusSideBar"
   }
   // {
   //   // Now I have alt+space as the Spotlight shortcut
