@@ -79,5 +79,21 @@
 
   "editor.lineHeight": 1.42857, // makes font size 14 have line height of ~20px,
   "chat.commandCenter.enabled": false,
+
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+
   "Ω a trailing line": "to not mess up comments formatting, when this config is modified programmatically"
 }
