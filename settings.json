@@ -1,4 +1,18 @@
 {
+  "[dockercompose]": {
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml",
+    "editor.insertSpaces": true,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "other": true,
+      "strings": true
+    },
+    "editor.tabSize": 2
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
   "[json][jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -6,6 +20,7 @@
   "autoHide.hideOnOpen": false,
   "autoHide.panelDelay": 0,
   "autoHide.sideBarDelay": 0,
+  "chat.commandCenter.enabled": false,
   "color-highlight.markerType": "dot-before",
   "color-highlight.markRuler": false,
   "color-highlight.matchWords": true,
@@ -22,9 +37,12 @@
     "source.fixAll": "explicit",
     "source.fixAll.sortJSON": "explicit"
   },
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "explicit",
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": "active",
+  "editor.lineHeight": 1.42857, // makes font size 14 have line height of ~20px,
   "editor.linkedEditing": true,
   "editor.minimap.enabled": false,
   "editor.quickSuggestionsDelay": 0,
@@ -39,6 +57,8 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
+  "gitlens.ai.model": "vscode", // default setting
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1", // default setting
   "http.systemCertificates": false,
   "java.jdt.ls.java.home": "/opt/homebrew/opt/openjdk@21", // env-specific, don't copy
   "javascript.inlayHints.parameterNames.enabled": "literals",
@@ -47,6 +67,8 @@
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.confirmOnKill": "always",
   "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 3,
   "terminal.integrated.env.osx": {
     "FIG_NEW_SESSION": "1"
   },
@@ -54,10 +76,12 @@
   "typescript.preferences.preferTypeOnlyAutoImports": true, // TODO! check other new preferences
   "typescript.updateImportsOnFileMove.enabled": "always",
   "window.closeWhenEmpty": true,
+  "window.commandCenter": false, // hides command center at the top of the window. Use cmd+shift+p instead,
   "window.restoreWindows": "preserve",
   "window.zoomPerWindow": false,
   "workbench.colorCustomizations": {},
   "workbench.colorTheme": "Celestial",
+  "workbench.editor.editorActionsLocation": "hidden", // hides the "format" and ellipsis buttons on the top right of the window,
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabActionCloseVisibility": false,
@@ -65,38 +89,8 @@
     "*.svg": "default"
   },
   "workbench.iconTheme": "icons",
+  "workbench.layoutControl.enabled": false, // hides those little squares on the top right of the window,
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-
-  // new settings for me, experimentation
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorSmoothCaretAnimation": "explicit",
-  "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.cursorWidth": 3,
-  "window.commandCenter": false, // hides command center at the top of the window. Use cmd+shift+p instead,
-  "workbench.layoutControl.enabled": false, // hides those little squares on the top right of the window,
-  "workbench.editor.editorActionsLocation": "hidden", // hides the "format" and ellipsis buttons on the top right of the window,
-
-  "editor.lineHeight": 1.42857, // makes font size 14 have line height of ~20px,
-  "chat.commandCenter.enabled": false,
-
-  "[dockercompose]": {
-    "editor.insertSpaces": true,
-    "editor.tabSize": 2,
-    "editor.autoIndent": "advanced",
-    "editor.quickSuggestions": {
-      "other": true,
-      "comments": false,
-      "strings": true
-    },
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  },
-  "[github-actions-workflow]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
-  },
-
-  "gitlens.ai.model": "vscode", // default setting
-  "gitlens.ai.vscode.model": "copilot:gpt-4.1", // default setting
-
   "Ω a trailing line": "to not mess up comments formatting, when this config is modified programmatically"
 }
