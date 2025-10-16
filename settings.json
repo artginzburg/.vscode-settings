@@ -95,5 +95,8 @@
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
 
+  "gitlens.ai.model": "vscode", // default setting
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1", // default setting
+
   "Ω a trailing line": "to not mess up comments formatting, when this config is modified programmatically"
 }
