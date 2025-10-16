@@ -64,6 +64,8 @@
   "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "search.collapseResults": "auto",
+  "semanticdiff.closeOriginalTab": true,
+  "semanticdiff.defaultDiffViewer": true,
   "terminal.integrated.confirmOnExit": "hasChildProcesses",
   "terminal.integrated.confirmOnKill": "always",
   "terminal.integrated.cursorBlinking": true,
