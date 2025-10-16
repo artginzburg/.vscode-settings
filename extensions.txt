@@ -1,3 +1,4 @@
+anthropic.claude-code
 apvarun.celestial
 bierner.markdown-emoji
 bierner.markdown-preview-github-styles
@@ -20,6 +21,7 @@ naumovs.color-highlight
 oderwat.indent-rainbow
 openai.chatgpt
 redhat.vscode-yaml
+semanticdiff.semanticdiff
 sirmspencer.vscode-autohide
 socheatsok78-lab.dotenv-vscode-stripped
 streetsidesoftware.code-spell-checker
