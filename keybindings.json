@@ -140,7 +140,37 @@
   {
     "key": "cmd+0",
     "command": "-workbench.action.focusSideBar"
+  },
+
+  // Run `npm run dev` in terminal by pressing the "key" twice.
+  {
+    "key": "ctrl+alt+d",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "!terminalIsOpen"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "workbench.action.terminal.sendSequence",
+    "args": {
+      "text": "npm run dev\u000D"
+    },
+    "when": "terminalIsOpen && terminalFocus"
+  },
+  {
+    "key": "ctrl+alt+d",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        "workbench.action.terminal.toggleTerminal",
+        {
+          "command": "workbench.action.terminal.sendSequence",
+          "args": { "text": "npm run dev\u000D" }
+        }
+      ]
+    },
+    "when": "terminalIsOpen && !terminalFocus"
   }
+
   // {
   //   // Now I have alt+space as the Spotlight shortcut
   //   "key": "alt+space",
