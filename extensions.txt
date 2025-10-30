@@ -16,6 +16,7 @@ kisstkondoros.vscode-codemetrics
 kisstkondoros.vscode-gutter-preview
 matthewpi.caddyfile-support
 mikerhyssmith.ts-barrelr
+mikestead.dotenv
 ms-azuretools.vscode-containers
 naumovs.color-highlight
 oderwat.indent-rainbow
@@ -23,7 +24,6 @@ openai.chatgpt
 redhat.vscode-yaml
 semanticdiff.semanticdiff
 sirmspencer.vscode-autohide
-socheatsok78-lab.dotenv-vscode-stripped
 streetsidesoftware.code-spell-checker
 streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
