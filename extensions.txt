@@ -2,6 +2,7 @@ anthropic.claude-code
 apvarun.celestial
 bierner.markdown-emoji
 bierner.markdown-preview-github-styles
+bradlc.vscode-tailwindcss
 britesnow.vscode-toggle-quotes
 dbaeumer.vscode-eslint
 devhippo.midnight-crimson
@@ -21,6 +22,7 @@ ms-azuretools.vscode-containers
 naumovs.color-highlight
 oderwat.indent-rainbow
 openai.chatgpt
+redhat.java
 redhat.vscode-yaml
 semanticdiff.semanticdiff
 sirmspencer.vscode-autohide
@@ -29,6 +31,12 @@ streetsidesoftware.code-spell-checker-russian
 styled-components.vscode-styled-components
 tal7aouy.icons
 unional.vscode-sort-package-json
+vscjava.vscode-gradle
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
 wakatime.vscode-wakatime
 wraith13.open-in-github-desktop
 yoavbls.pretty-ts-errors
